@@ -25,6 +25,6 @@ To deploy the model, we saved as an HDF5 file and can be loaded for inference. S
 
 Any users can input Romanized text into the model for transliteration. For example, entering "muthukumaran" results in the Bengali transliteration "মুথুকুমারন".
 
-#Conclusion
+# Conclusion
 
 The developed neural network model successfully transliterates Romanized text to Bengali. Future improvements could include fine-tuning hyperparameters, augmenting the dataset, and exploring advanced architectures for better performance.
