@@ -16,9 +16,6 @@ The model architecture comprises an encoder-decoder framework with LSTM layers. 
 
 The model is trained using RMSprop optimizer with a learning rate of 0.01 and a batch size of 64 over 50 epochs. Validation split is set at 20% for monitoring model performance. Loss is calculated using Sparse Categorical Crossentropy, and metrics such as accuracy and BLEU score are evaluated.
 
-# Results and Performance
-
-The model achieves an accuracy of X% on the training set and Y% on the validation set after 50 epochs. The BLEU score, a measure of translation quality, is Z. Visualizations of training/validation loss curves and predicted vs. actual output demonstrate the model's performance.
 
 # Deployment
 
